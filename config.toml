@@ -1,0 +1,15 @@
+languageCode = "es-cl"
+title = "...blog"
+baseurl = "//www.andreslopez.cl/blog/"
+Theme = "detox"
+PygmentsCodeFences = true
+PygmentsStyle = "trac"
+googleAnalytics = "UA-00000000"
+buildDrafts = false
+defaultContentLanguage = "es"
+publishDir = "blog"
+
+[Params]
+Author = "Andrés López"
+Subtitle = "... y otras cosas."
+google_analytics = "UA-######"

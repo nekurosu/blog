@@ -1,0 +1,11 @@
+CREATE TABLE orden_hombres (orden INTEGER PRIMARY KEY AUTOINCREMENT, nombre TEXT, sexo TEXT, cantidad INTEGER);
+CREATE TABLE orden_mujeres (orden INTEGER primary key autoincrement, nombre TEXT, sexo TEXT, cantidad INTEGER);
+CREATE TABLE nombres_ordenados (orden INTEGER, nombre TEXT, sexo TEXT, cantidad INTEGER);
+INSERT INTO orden_hombres (nombre, sexo, cantidad) SELECT nombre,sexo,cantidad FROM nombres WHERE sexo = "hombre" ORDER BY cantidad DESC, nombre ASC;
+INSERT INTO orden_mujeres (nombre, sexo, cantidad) SELECT nombre,sexo,cantidad FROM nombres WHERE sexo = "mujer" ORDER BY cantidad DESC, nombre ASC;
+INSERT INTO nombres_ordenados (orden, nombre, sexo, cantidad) SELECT orden, nombre, sexo, cantidad FROM orden_hombres;
+INSERT INTO nombres_ordenados (orden, nombre, sexo, cantidad) SELECT orden, nombre, sexo, cantidad FROM orden_mujeres;
+DROP TABLE orden_hombres;
+DROP TABLE orden_mujeres;
+DROP TABLE nombres;
+ALTER TABLE nombres_ordenados RENAME TO nombres;
