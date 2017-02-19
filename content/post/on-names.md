@@ -134,7 +134,7 @@ Y la lista de los top 10:
 
 La lista de los nombres "raros" es larga, llena de formas _creativas_ de escribir nombres (por ejemplo, hay 3 geremias y 1 jheampier), por lo que lo único me queda por decir es... _pobres cabros_.
 
-![Speechless](/blog/static/gifs/speechless.firefly.gif)
+![Speechless](//www.andreslopez.cl/blog/gifs/speechless.firefly.gif)
 
 Por mi parte, me quedo tranquilo con saber que el nombre que elegimos no es de los más comunes, pero tampoco es tan exótico como para que le hagan _bulling_.
 
