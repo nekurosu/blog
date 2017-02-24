@@ -2,6 +2,7 @@
 date = "2017-02-15T21:37:23-03:00"
 title = "on names"
 draft = false
+slug = "on-names"
 
 +++
 
