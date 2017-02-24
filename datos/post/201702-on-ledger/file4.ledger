@@ -1,0 +1,11 @@
+2017-02-21 Efectivo
+  Gastos:Efectivo  $40000
+  Activos:Cuenta Coriente
+
+2016-02-21 Maestro
+  Gastos:Maestros  $20000
+  Gastos:Efectivo
+
+2017-02-21 Feria
+  Gastos:Feria  $8000
+  Gastos:Efectivo

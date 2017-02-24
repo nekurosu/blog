@@ -1,0 +1,10 @@
+account Activos:Cuenta Corriente
+account Gastos:Cuentas:Luz
+
+2017-01-01 * Enel
+  Gastos:Cuentas:Luz  $10000
+  Activos:Cuenta Corriente
+
+2017-02-01 * Enel
+  Gastos:Cunetas:Luz  $10000
+  Activos:Cuenta Corriente

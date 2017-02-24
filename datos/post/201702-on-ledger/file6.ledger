@@ -1,0 +1,264 @@
+2016-01-01 * Enel
+  Gastos:Cuentas:Luz  $15000
+  Activos:Cuenta Corriente
+2016-02-01 * Enel
+  Gastos:Cuentas:Luz  $15500
+  Activos:Cuenta Corriente
+2016-03-01 * Enel
+  Gastos:Cuentas:Luz  $14500
+  Activos:Cuenta Corriente
+2016-04-01 * Enel
+  Gastos:Cuentas:Luz  $15000
+  Activos:Cuenta Corriente
+2016-05-01 * Enel
+  Gastos:Cuentas:Luz  $15600
+  Activos:Cuenta Corriente
+2016-06-01 * Enel
+  Gastos:Cuentas:Luz  $14600
+  Activos:Cuenta Corriente
+2016-07-01 * Enel
+  Gastos:Cuentas:Luz  $15400
+  Activos:Cuenta Corriente
+2016-08-01 * Enel
+  Gastos:Cuentas:Luz  $15100
+  Activos:Cuenta Corriente
+2016-09-01 * Enel
+  Gastos:Cuentas:Luz  $14300
+  Activos:Cuenta Corriente
+2016-10-01 * Enel
+  Gastos:Cuentas:Luz  $16500
+  Activos:Cuenta Corriente
+2016-11-01 * Enel
+  Gastos:Cuentas:Luz  $15000
+  Activos:Cuenta Corriente
+2016-12-01 * Enel
+  Gastos:Cuentas:Luz  $15700
+  Activos:Cuenta Corriente
+##
+2016-01-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $12500
+  Activos:Cuenta Corriente
+2016-02-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $12600
+  Activos:Cuenta Corriente
+2016-03-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $12400
+  Activos:Cuenta Corriente
+2016-04-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $13500
+  Activos:Cuenta Corriente
+2016-05-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $11500
+  Activos:Cuenta Corriente
+2016-06-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $12000
+  Activos:Cuenta Corriente
+2016-07-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $12550
+  Activos:Cuenta Corriente
+2016-08-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $12500
+  Activos:Cuenta Corriente
+2016-09-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $11500
+  Activos:Cuenta Corriente
+2016-10-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $17500
+  Activos:Cuenta Corriente
+2016-11-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $12500
+  Activos:Cuenta Corriente
+2016-12-02 * Aguas Andinas
+  Gastos:Cuentas:Agua  $12500
+  Activos:Cuenta Corriente
+###
+2016-01-03 * Metrogas
+  Gastos:Cuentas:Gas  $13000
+  Activos:Cuenta Corriente
+2016-02-03 * Metrogas
+  Gastos:Cuentas:Gas  $12000
+  Activos:Cuenta Corriente
+2016-03-03 * Metrogas
+  Gastos:Cuentas:Gas  $10000
+  Activos:Cuenta Corriente
+2016-04-03 * Metrogas
+  Gastos:Cuentas:Gas  $15000
+  Activos:Cuenta Corriente
+2016-05-03 * Metrogas
+  Gastos:Cuentas:Gas  $12000
+  Activos:Cuenta Corriente
+2016-06-03 * Metrogas
+  Gastos:Cuentas:Gas  $11000
+  Activos:Cuenta Corriente
+2016-07-03 * Metrogas
+  Gastos:Cuentas:Gas  $10000
+  Activos:Cuenta Corriente
+2016-08-03 * Metrogas
+  Gastos:Cuentas:Gas  $13000
+  Activos:Cuenta Corriente
+2016-09-03 * Metrogas
+  Gastos:Cuentas:Gas  $12400
+  Activos:Cuenta Corriente
+2016-10-03 * Metrogas
+  Gastos:Cuentas:Gas  $11500
+  Activos:Cuenta Corriente
+2016-11-03 * Metrogas
+  Gastos:Cuentas:Gas  $12000
+  Activos:Cuenta Corriente
+2016-12-03 * Metrogas
+  Gastos:Cuentas:Gas  $11000
+  Activos:Cuenta Corriente
+#
+2016-01-01 * Lider
+  Gastos:Supermercado  $32000
+  Activos:Cuenta Corriente
+2016-01-15 * Montserrat
+  Gastos:Supermercado  $14567
+  Activos:Cuenta Corriente
+2016-02-01 * Lider
+  Gastos:Supermercado  $33599
+  Activos:Cuenta Corriente
+2016-02-15 * Montserrat
+  Gastos:Supermercado  $17000
+  Activos:Cuenta Corriente
+2016-03-01 * Lider
+  Gastos:Supermercado  $25990
+  Activos:Cuenta Corriente
+2016-03-15 * Montserrat
+  Gastos:Supermercado  $21270
+  Activos:Cuenta Corriente
+2016-04-01 * Lider
+  Gastos:Supermercado  $45009
+  Activos:Cuenta Corriente
+2016-04-15 * Montserrat
+  Gastos:Supermercado  $12029
+  Activos:Cuenta Corriente
+2016-05-01 * Lider
+  Gastos:Supermercado  $31201
+  Activos:Cuenta Corriente
+2016-05-15 * Montserrat
+  Gastos:Supermercado  $17502
+  Activos:Cuenta Corriente
+2016-06-01 * Lider
+  Gastos:Supermercado  $70931
+  Activos:Cuenta Corriente
+2016-06-15 * Montserrat
+  Gastos:Supermercado  $7234
+  Activos:Cuenta Corriente
+2016-07-01 * Lider
+  Gastos:Supermercado  $31235
+  Activos:Cuenta Corriente
+2016-07-15 * Montserrat
+  Gastos:Supermercado  $15345
+  Activos:Cuenta Corriente
+2016-08-01 * Lider
+  Gastos:Supermercado  $25045
+  Activos:Cuenta Corriente
+2016-08-15 * Montserrat
+  Gastos:Supermercado  $12345
+  Activos:Cuenta Corriente
+2016-09-01 * Lider
+  Gastos:Supermercado  $45098
+  Activos:Cuenta Corriente
+2016-09-15 * Montserrat
+  Gastos:Supermercado  $4000
+  Activos:Cuenta Corriente
+2016-10-01 * Lider
+  Gastos:Supermercado  $32314
+  Activos:Cuenta Corriente
+2016-10-15 * Montserrat
+  Gastos:Supermercado  $14322
+  Activos:Cuenta Corriente
+2016-11-01 * Lider
+  Gastos:Supermercado  $31234
+  Activos:Cuenta Corriente
+2016-11-15 * Montserrat
+  Gastos:Supermercado  $12345
+  Activos:Cuenta Corriente
+2016-12-01 * Lider
+  Gastos:Supermercado  $34523
+  Activos:Cuenta Corriente
+2016-12-15 * Montserrat
+  Gastos:Supermercado  $11235
+  Activos:Cuenta Corriente
+#
+2016-01-31 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-02-28 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-03-31 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-04-30 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-05-31 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-06-30 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-07-31 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-08-31 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-09-30 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-10-31 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-11-30 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+2016-12-31 * Ahorro
+  Activos:Ahorro Vacaciones  $20000
+  Activos:Cuenta Corriente
+#
+2016-01-31 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-02-28 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-03-31 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-04-30 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-05-31 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-06-30 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-07-31 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-08-31 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-09-30 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-10-31 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-11-30 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+2016-12-31 * Empresa
+  Activos:Cuenta Corriente  $100000
+  Ingresos:Trabajo
+#
+2016-03-12 * Pituto
+  Activos:Cuenta Corriente  $50000
+  Ingresos:Pitutos
+2016-06-18 * Pituto
+  Activos:Cuenta Corriente  $75000
+  Ingresos:Pitutos

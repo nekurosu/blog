@@ -1,0 +1,12 @@
+2016-12-31 * Inicio
+  Activos:Cuenta Corriente  $100000
+  Capital:Dinero
+
+2017-01-21 * Banco
+    Activos:Deposito a Plazo  $100000
+    Activos:Cuenta Corriente
+
+2017-02-21 * Banco
+    Activos:Cuenta Corriente  $100100
+    Ingresos:Ganacia de Capitales  -$100
+    Activos:Deposito a Plazo
